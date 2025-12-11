@@ -78,12 +78,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saleem-bazhil&theme=react&show_icons=true" alt="github stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saleem-bazhil&theme=react" alt="streak stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saleem-bazhil&theme=react&show_icons=true" alt="github stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" alt="top languages" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" alt="top languages" />
 </p>
 
 <hr />
