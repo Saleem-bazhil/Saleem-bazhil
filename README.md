@@ -43,14 +43,14 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
 <h1 align="center">My Profile Statistics 📊</h1>
 
 <p align="center">
-  <a href="https://github.com/Taiizor"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a>
+  <a href="https://github.com/Saleem-bazhil"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Saleem-bazhil&color=2984CC&style=flat" alt="Saleem-bazhil GitHub Profile Guests"/></a>
   <br />
-  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/streak.svg" alt="Taiizor's GitHub Streak Stats"/></a>
+  <a href="https://github.com/Saleem-bazhil"><img src="https://raw.githubusercontent.com/Saleem-bazhil/Saleem-bazhil/develop/generated-stats/streak.svg" alt="Saleem-bazhil GitHub Streak Stats"/></a>
   <br />
-  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats.svg" alt="Taiizor's GitHub Stats"/></a>
+  <a href="https://github.com/Saleem-bazhil"><img src="https://raw.githubusercontent.com/Saleem-bazhil/Saleem-bazhil/develop/generated-stats/stats.svg" alt="Saleem-bazhil GitHub Stats"/></a>
   <!--<a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats-extended.svg" alt="Taiizor's GitHub Stats"/></a>-->
   <br />
-  <a href="https://github.com/Taiizor?tab=repositories"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/top-langs.svg" alt="Taiizor's GitHub Top Langs"/></a>
+  <a href="https://github.com/Saleem-bazhil?tab=repositories"><img src="https://raw.githubusercontent.com/Saleem-bazhil/Saleem-bazhil/develop/generated-stats/top-langs.svg" alt="Saleem-bazhil GitHub Top Langs"/></a>
 </p>
 ---
 
