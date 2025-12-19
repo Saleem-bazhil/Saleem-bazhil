@@ -40,19 +40,18 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
 
 ## 📊 GitHub Overview
 
-<div align="center">
+<h1 align="center">My Profile Statistics 📊</h1>
 
-### ⭐ Stats (Working Mirror)
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saleem-bazhil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-
-### ⭐ Most Used Languages
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" />
-
-### ⭐ GitHub Streak (Working)
-<img src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react" width="80%" />
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/Taiizor"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a>
+  <br />
+  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/streak.svg" alt="Taiizor's GitHub Streak Stats"/></a>
+  <br />
+  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats.svg" alt="Taiizor's GitHub Stats"/></a>
+  <!--<a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats-extended.svg" alt="Taiizor's GitHub Stats"/></a>-->
+  <br />
+  <a href="https://github.com/Taiizor?tab=repositories"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/top-langs.svg" alt="Taiizor's GitHub Top Langs"/></a>
+</p>
 ---
 
 ## 🏆 Achievements (Mirror that Works)
