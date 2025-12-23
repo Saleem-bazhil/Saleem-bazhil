@@ -83,11 +83,11 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
 ---
 
 ## 🏆 Achievements
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Saleem-bazhil&theme=algolia&margin-w=10&no-frame=true" 
   />
-</div>
+</div> -->
 
 ---
 
