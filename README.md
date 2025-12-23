@@ -1,14 +1,21 @@
-<!-- Top waving banner -->
+<!-- ================= TOP BANNER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Saleem%20Bazhil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Saleem%20Bazhil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" 
+    width="100%" 
+  />
 </div>
 
 <h1 align="center">✨ Hi there, I'm Saleem! 👋</h1>
 
-<p align="center"><strong>Full Stack Developer • React • Django • Node.js</strong></p>
+<p align="center">
+  <strong>Full Stack Developer • React • Django • Node.js</strong>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=d397fa&center=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+%7C+APIs;Building+Modern+Web+Applications;Animations+%7C+UI+Design+%7C+Databases" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=d397fa&center=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+%7C+APIs;Building+Modern+Web+Applications;Animations+%7C+UI+Design+%7C+Databases" 
+  />
 </div>
 
 ---
@@ -22,69 +29,107 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
 
 ## 📬 Connect With Me
 <div align="center">
-  <a href="mailto:saleembazhil@gmail.com"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Email.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/YouTube.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Instagram.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Twitter.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/LinkedIn.png"/></a>
+  <a href="mailto:saleembazhil@gmail.com">
+    <img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Email.png"/>
+  </a>
+  <a href="#">
+    <img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/YouTube.png"/>
+  </a>
+  <a href="#">
+    <img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Instagram.png"/>
+  </a>
+  <a href="#">
+    <img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Twitter.png"/>
+  </a>
+  <a href="#">
+    <img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/LinkedIn.png"/>
+  </a>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,gsap,nodejs,express,python,django,mongodb,postgresql&perline=7" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,gsap,nodejs,express,python,django,mongodb,postgresql&perline=7" 
+  />
 </div>
 
 ---
 
 ## 📊 GitHub Overview
-
 <div align="center">
 
-### ⭐ Stats (Working Mirror)
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saleem-bazhil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+### ⭐ GitHub Stats
+<img 
+  height="165" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saleem-bazhil&show_icons=true&theme=react&include_all_commits=true&count_private=true" 
+/>
 
 ### ⭐ Most Used Languages
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" />
+<img 
+  height="165" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" 
+/>
 
-### ⭐ GitHub Streak (Working)
-<img src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react" width="80%" />
+### ⭐ GitHub Streak (STABLE CONFIG)
+<img 
+  src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+  width="80%" 
+/>
 
 </div>
 
 ---
 
-## 🏆 Achievements (Mirror that Works)
+## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saleem-bazhil&theme=algolia&margin-w=10" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Saleem-bazhil&theme=algolia&margin-w=10&no-frame=true" 
+  />
 </div>
 
 ---
 
 ## 🔥 Recent Activity (GitHub Native — Always Works)
 <div align="center">
-  <img src="https://ghchart.rshah.org/Saleem-bazhil" width="85%" />
+  <img 
+    src="https://ghchart.rshah.org/Saleem-bazhil" 
+    width="85%" 
+  />
 </div>
 
 ---
 
 ## 🌐 Connect
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saleembazhil@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://bazhilgroups.in"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saleembazhil@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://bazhilgroups.in">
+    <img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=Saleem-bazhil&style=for-the-badge&color=brightgreen" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Saleem-bazhil&style=for-the-badge&color=brightgreen" 
+  />
 </div>
 
 ---
 
-<!-- Footer Wave -->
+<!-- ================= FOOTER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" 
+    width="100%" 
+  />
 </div>
 
-<p align="center"><sub>Built with ❤️ by <strong>Saleem</strong></sub></p>
+<p align="center">
+  <sub>Built with ❤️ by <strong>Saleem</strong></sub>
+</p>
