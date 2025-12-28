@@ -1,4 +1,4 @@
-<!-- ================= TOP BANNER ================= -->
+
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Saleem%20Bazhil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" 
