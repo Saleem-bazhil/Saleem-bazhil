@@ -85,6 +85,13 @@ I’m Saleem — a passionate full stack developer focused on building fast, ele
     width="95%" 
   />
 </div>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react&hide_border=true"
+    height="165"
+  />
+</div>
+
 
 ---
 
