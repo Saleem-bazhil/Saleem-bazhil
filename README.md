@@ -1,4 +1,3 @@
-
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Saleem%20Bazhil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" 
@@ -6,7 +5,7 @@
   />
 </div>
 
-<h1 align="center">✨ Hi there, I'm Saleem! 👋</h1>
+<h1 align="center">✨ Hi there, I'm Saleem 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer • React • Django • Node.js</strong>
@@ -20,14 +19,16 @@
 
 ---
 
-## 🌌 Hello Universe! 🚀
+## 🌌 Hello Universe 🚀
+
 <p align="center">
-I'm Saleem — a passionate developer who builds fast, elegant, and scalable web applications using modern technologies like React, Django, Node.js, REST APIs, and animations.
+I’m Saleem — a passionate full stack developer focused on building fast, elegant, and scalable web applications using modern technologies like React, Django, Node.js, REST APIs, and smooth UI animations.
 </p>
 
 ---
 
 ## 📬 Connect With Me
+
 <div align="center">
   <a href="mailto:saleembazhil@gmail.com">
     <img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Email.png"/>
@@ -49,6 +50,7 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
 ---
 
 ## 🛠️ Tech Stack
+
 <div align="center">
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,gsap,nodejs,express,python,django,mongodb,postgresql&perline=7" 
@@ -58,50 +60,36 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
 ---
 
 ## 📊 GitHub Overview
+
 <div align="center">
 
-### ⭐ GitHub Stats
 <img 
   height="165" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saleem-bazhil&show_icons=true&theme=react&include_all_commits=true&count_private=true" 
 />
 
-### ⭐ Most Used Languages
 <img 
   height="165" 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" 
 />
 
-### ⭐ GitHub Streak (STABLE CONFIG)
-<img 
-  src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-  width="80%" 
-/>
-
 </div>
 
 ---
 
-## 🏆 Achievements
-<!-- <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Saleem-bazhil&theme=algolia&margin-w=10&no-frame=true" 
-  />
-</div> -->
+## 🔥 Contribution Activity
 
----
-
-## 🔥 Recent Activity (GitHub Native — Always Works)
 <div align="center">
   <img 
-    src="https://ghchart.rshah.org/Saleem-bazhil" 
-    width="85%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Saleem-bazhil&theme=react-dark&hide_border=true" 
+    width="95%" 
   />
 </div>
 
 ---
 
-## 🌐 Connect
+## 🌐 Links
+
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -120,9 +108,6 @@ I'm Saleem — a passionate developer who builds fast, elegant, and scalable web
   />
 </div>
 
----
-
-<!-- ================= FOOTER ================= -->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" 
