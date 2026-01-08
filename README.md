@@ -24,8 +24,6 @@
 I’m Saleem — a passionate full stack developer focused on building fast, elegant, and scalable web applications using modern technologies like React, Django, Node.js, REST APIs, and smooth UI animations.
 </p>
 
----
-
 ## 📬 Connect With Me
 
 <div align="center">
@@ -74,9 +72,7 @@ I’m Saleem — a passionate full stack developer focused on building fast, ele
 
 </div>
 
----
-
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img 
