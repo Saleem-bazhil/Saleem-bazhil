@@ -91,11 +91,10 @@ I’m Saleem — a passionate full stack developer focused on building fast, ele
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Saleem-bazhil&theme=react&hide_border=true"
-    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Saleem-bazhil&theme=react&hide_border=true"
+    alt="GitHub Streak"
   />
 </div>
-
 
 ---
 
