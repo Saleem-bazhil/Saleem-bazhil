@@ -89,12 +89,14 @@ I’m Saleem — a passionate full stack developer focused on building fast, ele
 
 ##  GitHub Streak
 
+
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saleem-bazhil&show_icons=true&theme=react"
+  <img
+    src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react&hide_border=true"
     height="170"
   />
 </div>
+
 
 ---
 
