@@ -43,19 +43,9 @@ authentication systems, role-based access control, and secure payment integratio
 
 <div align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,bootstrap,tailwind,gsap,nodejs,nestjs,express,python,django,mongodb,postgresql&perline=8" 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,bootstrap,tailwind,gsap,nodejs,nestjs,express,python,django,mongodb,postgresql&perline=7" 
   />
 </div>
-
-<hr/>
-
-<!-- Projects are shown using pinned repositories -->
-## 📌 Featured Work
-
-<p align="center">
-My main projects are pinned below 👇  
-Each one has a detailed README explaining what it does and how it’s built.
-</p>
 
 <hr/>
 
@@ -98,7 +88,7 @@ Each one has a detailed README explaining what it does and how it’s built.
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:saleembazhil@gmail.com">
+  <a href="mailto:ab588538@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
