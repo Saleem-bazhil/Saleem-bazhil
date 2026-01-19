@@ -1,36 +1,44 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:696eff,100:f8acff&text=Saleem%20Bazhil&reversal=false&fontColor=F0FAFF&fontSize=50&fontAlignY=32&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:696eff,100:f8acff&text=Saleem%20Bazhil&fontColor=F0FAFF&fontSize=50&fontAlignY=32&animation=fadeIn" 
     width="100%" 
   />
 </div>
+
+<br/>
 
 <h1 align="center">✨ Hi there, I'm Saleem 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer (Web & Mobile)</strong><br/>
-  React • React Native • Next.js • NestJS • Django • MERN 
+  React • React Native • Next.js • NestJS • Django • MERN
 </p>
 
+<!-- Typing animation for quick tech overview -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=d397fa&center=true&width=1000&lines=Full+Stack+Developer+(Web+%26+Mobile);React+%7C+React+Native+%7C+Next.js;Node.js+%7C+NestJS+%7C+Django+%7C+TypeScript;Building+Production-Ready+Applications;Clean+UI+%7C+Scalable+APIs+%7C+Payments" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=d397fa&center=true&width=900&lines=Full+Stack+Developer+(Web+%26+Mobile);React+%7C+React+Native+%7C+Next.js;NestJS+%7C+Django+%7C+TypeScript;Building+Production-Ready+Applications" 
   />
 </div>
 
----
+<hr/>
 
+<!-- About me section -->
 ## 🌌 About Me
 
-<p align="center">
-I’m Saleem, a <strong>Full Stack Developer (Web & Mobile)</strong> focused on building 
-<strong>production-ready web and mobile applications</strong> using modern technologies.<br/><br/>
+<p>
+I’m <strong>Saleem</strong>, a <strong>Full Stack Developer (Web & Mobile)</strong> focused on building 
+<strong>production-ready web and mobile applications</strong> using modern technologies.
+</p>
+
+<p>
 I work across frontend, backend, and APIs with an emphasis on clean UI, scalable architecture, 
 authentication systems, role-based access control, and secure payment integrations.
 </p>
 
----
+<hr/>
 
+<!-- Tools and technologies I work with -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -39,17 +47,19 @@ authentication systems, role-based access control, and secure payment integratio
   />
 </div>
 
----
+<hr/>
 
+<!-- Projects are shown using pinned repositories -->
 ## 📌 Featured Work
 
 <p align="center">
-My key projects are showcased as <strong>pinned repositories</strong> below 👇<br/>
-Each pinned repo includes a detailed README explaining the problem, architecture, and implementation.
+My main projects are pinned below 👇  
+Each one has a detailed README explaining what it does and how it’s built.
 </p>
 
----
+<hr/>
 
+<!-- GitHub stats overview -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -63,8 +73,9 @@ Each pinned repo includes a detailed README explaining the problem, architecture
   />
 </div>
 
----
+<hr/>
 
+<!-- Contribution activity -->
 ## 🔥 Contribution Activity
 
 <div align="center">
@@ -81,8 +92,9 @@ Each pinned repo includes a detailed README explaining the problem, architecture
   />
 </div>
 
----
+<hr/>
 
+<!-- Ways to reach me -->
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -97,14 +109,18 @@ Each pinned repo includes a detailed README explaining the problem, architecture
   </a>
 </div>
 
----
+<br/>
 
+<!-- Profile view counter -->
 <div align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Saleem-bazhil&style=for-the-badge&color=brightgreen" 
   />
 </div>
 
+<br/>
+
+<!-- Footer banner -->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" 
