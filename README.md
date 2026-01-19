@@ -43,9 +43,10 @@ authentication systems, role-based access control, and secure payment integratio
 
 <div align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,bootstrap,tailwind,gsap,nodejs,nestjs,express,python,django,mongodb,postgresql&perline=7" 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,nodejs,nestjs,express,python,django,mongodb,postgresql&perline=7" 
   />
 </div>
+
 
 <hr/>
 
