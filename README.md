@@ -76,13 +76,6 @@ authentication systems, role-based access control, and secure payment integratio
   />
 </div>
 
-<div align="center">
-  <!-- <img
-    src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react&hide_border=true"
-    height="165"
-  />
-</div> -->
-
 <hr/>
 
 <!-- Ways to reach me -->
