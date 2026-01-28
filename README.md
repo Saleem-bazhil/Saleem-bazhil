@@ -24,7 +24,7 @@
 <hr/>
 
 <!-- About me section -->
-## 🌌 About Me
+## About Me
 
 <p>
 I’m <strong>Saleem</strong>, a <strong>Full Stack Developer (Web & Mobile)</strong> focused on building 
