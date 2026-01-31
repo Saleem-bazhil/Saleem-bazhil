@@ -23,7 +23,7 @@
 
 <hr/>
 
-<!-- About me section -->
+
 ## About Me
 
 <p>
