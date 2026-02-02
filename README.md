@@ -67,7 +67,7 @@ authentication systems, role-based access control, and secure payment integratio
 <hr/>
 
 <!-- Contribution activity -->
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img 
