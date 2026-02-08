@@ -38,7 +38,7 @@ authentication systems, role-based access control, and secure payment integratio
 
 <hr/>
 
-<!-- Tools and technologies I work with -->
+<!-- Tools and technologies I work  -->
 ## 🛠️ Tech Stack
 
 <div align="center">
