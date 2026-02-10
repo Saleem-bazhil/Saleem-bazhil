@@ -50,7 +50,7 @@ authentication systems, role-based access control, and secure payment integratio
 
 <hr/>
 
-<!-- GitHub stats overview -->
+<!-- GitHub stats  -->
 ## 📊 GitHub Stats
 
 <div align="center">
