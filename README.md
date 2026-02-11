@@ -104,7 +104,7 @@ authentication systems, role-based access control, and secure payment integratio
 
 <br/>
 
-<!-- Footer  -->
+<!-- Footer  banner-->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" 
