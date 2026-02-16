@@ -78,7 +78,7 @@ authentication systems, role-based access control, and secure payment integratio
 
 <hr/>
 
-<!-- Ways to reach me -->
+<!-- Ways to reach  -->
 ## 🌐 Connect With Me
 
 <div align="center">
