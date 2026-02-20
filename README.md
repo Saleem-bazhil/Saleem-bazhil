@@ -14,7 +14,7 @@
   React • React Native • Next.js • NestJS • Django • MERN
 </p>
 
-<!--  animation img  -->
+<!--  animation   -->
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=d397fa&center=true&width=900&lines=Full+Stack+Developer+(Web+%26+Mobile);React+%7C+React+Native+%7C+Next.js;NestJS+%7C+Django+%7C+TypeScript;Building+Production-Ready+Applications" 
